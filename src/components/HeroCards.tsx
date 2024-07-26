@@ -11,7 +11,7 @@ import {
 } from "@/components/ui/card";
 import { Check } from "lucide-react";
 import { LightBulbIcon } from "./Icons";
-import { FaceIcon, SpeakerLoudIcon } from "@radix-ui/react-icons";
+import { FaceIcon, EyeOpenIcon, SpeakerLoudIcon } from "@radix-ui/react-icons";
 
 export const HeroCards = () => {
   return (
@@ -60,7 +60,7 @@ export const HeroCards = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://okjk.co/sYmfES"
+              href="./buy.png"
               target="_blank"
               className={buttonVariants({
                 variant: "ghost",
@@ -69,6 +69,19 @@ export const HeroCards = () => {
             >
               <span className="sr-only"></span>
               <FaceIcon className="w-5 h-5" />
+            </a>
+
+            <a
+              rel="noreferrer noopener"
+              href="https://okjk.co/sYmfES"
+              target="_blank"
+              className={buttonVariants({
+                variant: "ghost",
+                size: "sm",
+              })}
+            >
+              <span className="sr-only"></span>
+              <EyeOpenIcon className="w-5 h-5" />
             </a>
 
             <a

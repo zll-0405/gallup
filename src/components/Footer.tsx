@@ -21,7 +21,18 @@ export const Footer = () => {
           <h3 className="font-bold text-lg">更多资料</h3>
           <div>
             <a
+              href="https://mp.weixin.qq.com/s/qQw0Qf1IX2FZWwHBB1mVRA"
+              target="_blank"
+              className="opacity-60 hover:opacity-100"
+            >
+              才干解读卡
+            </a>
+          </div>
+
+          <div>
+            <a
               href="https://www.xiaoyuzhoufm.com/podcast/64f2030fb883f7aff7a8279a"
+              target="_blank"
               className="opacity-60 hover:opacity-100"
             >
               不完美女孩
@@ -31,9 +42,36 @@ export const Footer = () => {
           <div>
             <a
               href="https://mp.weixin.qq.com/s/yyZ-WKi1JS-koi9yVy32NQ"
+              target="_blank"
               className="opacity-60 hover:opacity-100"
             >
               盖洛普测评及注意事项
+            </a>
+          </div>
+
+        </div>
+
+        <div className="flex flex-col gap-2">
+          <h3 className="font-bold text-lg">盖洛普优势教练</h3>
+          <div>
+            <a
+              rel="noreferrer noopener"
+              href="https://mp.weixin.qq.com/s/O4SCbweswSQyEO8YyvUIXA"
+              target="_blank"
+              className="opacity-60 hover:opacity-100"
+            >
+              什么是优势教练
+            </a>
+          </div>
+
+          <div>
+            <a
+              rel="noreferrer noopener"
+              href="https://mp.weixin.qq.com/s/5XW9sxo4qra0MVJbpN2F3A"
+              target="_blank"
+              className="opacity-60 hover:opacity-100"
+            >
+              如何成为一名教练
             </a>
           </div>
 
@@ -78,6 +116,7 @@ export const Footer = () => {
             <a
               rel="noreferrer noopener"
               href="https://okjk.co/sYmfES"
+              target="_blank"
               className="opacity-60 hover:opacity-100"
             >
               即刻
@@ -85,6 +124,7 @@ export const Footer = () => {
           </div>
 
         </div>
+
       </section>
 
       <section className="container pb-14 text-center">
