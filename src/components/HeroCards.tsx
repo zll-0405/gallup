@@ -24,7 +24,7 @@ export const HeroCards = () => {
               alt=""
               src="https://github.com/shadcn.png"
             />
-            <AvatarFallback>SH</AvatarFallback>
+            <AvatarFallback>F.D</AvatarFallback>
           </Avatar>
 
           <div className="flex flex-col">
