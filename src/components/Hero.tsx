@@ -27,7 +27,7 @@ export const Hero = () => {
 
         <div className="space-y-4 md:space-y-0 md:space-x-4">
           <a 
-            href="https://strengths.top/"
+            href="https://strengthsinfo.com/"
             target="_blank"
           >
             <Button className="w-full md:w-1/3">优势博客</Button>

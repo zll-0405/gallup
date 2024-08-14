@@ -133,10 +133,10 @@ export const Footer = () => {
           <a
             rel="noreferrer noopener"
             target="_blank"
-            href="https://strengths.top/"
+            href="https://strengthsinfo.com/"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            StrengthsTop
+            StrengthsInfo
           </a>
         </p>
       </section>
