@@ -30,7 +30,7 @@ export const Hero = () => {
             href="https://strengthsinfo.com/"
             target="_blank"
           >
-            <Button className="w-full md:w-1/3">优势博客</Button>
+            <Button className="w-full md:w-1/3">优势信息</Button>
           </a>
 
           <a
