@@ -136,7 +136,7 @@ export const HeroCards = () => {
 
         <CardFooter className="flex">
           <div className="space-y-4">
-            {["解锁 34 项才干", "专属于你的优势报告",].map(
+            {["解锁 34 项才干", "专属于你的优势报告","若实际价格与标价不符，以实际价格为准",].map(
               (benefit: string) => (
                 <span
                   key={benefit}
