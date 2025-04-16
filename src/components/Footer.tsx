@@ -110,21 +110,6 @@ export const Footer = () => {
           </div>
         </div>
 
-        <div className="flex flex-col gap-2">
-          <h3 className="font-bold text-lg">联系方式</h3>
-          <div>
-            <a
-              rel="noreferrer noopener"
-              href="https://okjk.co/sYmfES"
-              target="_blank"
-              className="opacity-60 hover:opacity-100"
-            >
-              即刻
-            </a>
-          </div>
-
-        </div>
-
       </section>
 
       <section className="container pb-14 text-center">
